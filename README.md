@@ -6,7 +6,7 @@
 
 <h2 align="center" >I'm a student of Software Engineering, graphics designer, UI/UX designer, and implementing front-end Website.</h2>
 <br />
-<img align="right"  alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
+<img align="right"  alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
 
 <h3 align="left">🔭 I’m currently working on:</h3>
