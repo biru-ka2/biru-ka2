@@ -43,16 +43,20 @@
     <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biruk-worku-molla&show_icons=true&locale=en&layout=compact" alt="biruk-worku-molla" /></p>
-</p>
+
 <br />
    <br />
     <br />
-
+    <br />
+   <br />
+    <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biruk-worku-molla&show_icons=true&locale=en" alt="biruk-worku-molla" /></p>
-</p>
+
 <br />
+   <br />
+    <br />
+    <br />
    <br />
     <br />
 
