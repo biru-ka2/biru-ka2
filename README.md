@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biruk-Worku-Molla.Biruk-Worku-Molla" />
 <h1 align="center">Hi 👋, I'm Biruk Worku</h1>
 <h3 align="center">I am a passionate UI/UX designer and frontend developer from Ethiopia.</h3>
 <img align="right"  alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
