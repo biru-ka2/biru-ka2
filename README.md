@@ -1,5 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biruk-Worku-Molla.Biruk-Worku-Molla" />
-<h1 align="center">Hi 👋, I'm Biruk Worku</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Biruk+Worku!;+I'm+UI+and+UX+ designer;+frontend+developer" />
+</h1>
 <h3 align="center">I am a passionate UI/UX designer and frontend developer from Ethiopia.</h3>
 <img align="right"  alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
