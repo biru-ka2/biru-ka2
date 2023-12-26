@@ -26,6 +26,7 @@
 <br/>
 <br/>
 <br/>
+<!-- biruk worku social media is hear and contact me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/biru-ka2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-worku-molla" height="30" width="40" /></a>
@@ -35,6 +36,7 @@
 </p>
 
 <hr  />
+<!-- biruk worku skills -->
 
 <h3 align="left">I am skilled in the following list of programming languages and software tools:</h3>
 
@@ -46,7 +48,7 @@
 <hr/>
 <br/>
 
-
+<!-- biruk worku gitub stats is hear -->
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
