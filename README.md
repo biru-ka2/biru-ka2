@@ -14,7 +14,7 @@
 - Personal Projects
 - School Projects
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="left">🌱  I’m currently learning: </h3>
 
 - Nodejs  
 - Expressjs with Nodejs
@@ -26,6 +26,7 @@
 <br/>
 <br/>
 <br/>
+
 <!-- biruk worku social media is hear and contact me -->
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
