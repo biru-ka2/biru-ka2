@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biruk-Worku-Molla.Biruk-Worku-Molla" />
 <h1 align="center"></h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Biruk+Worku!;+UI+UX+Designer;+and;+Frontend+Developer" />
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Biruk+Worku!;+UI+UX+Designer;+and;+Frontend+Developer" />
 
 
 <h2 align="center" >Software Engineering student @Addis Ababa University🎓 | Music & Movies enthusiast 🎶🎬| Coffee ☕| Football enthusiast and dedicated Liverpool fan! YNWA 🔴⚽ #LFC | Basketball Playing 🏀 | Passionate about designing and implementing websites💻 |&|Graphics design🎨 </h2>
