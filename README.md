@@ -4,7 +4,7 @@
      <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=200&duration=6000&lines=Hi+There!+👋+I'm+Biruk+Worku!;+Full+Stack+Developer;+And;+UI+UX+Designer" />
 <!-- biruk worku bio -->
 
-<h2 align="center" >Software Engineering student @Addis Ababa University🎓 | Music & Movies enthusiast 🎶🎬| Coffee ☕| Football enthusiast and dedicated Liverpool fan! YNWA 🔴⚽ #LFC | Basketball Playing 🏀 | Passionate about designing and implementing websites💻 |&|Graphics design🎨 </h2>
+<h2 align="center" > Software Engineering | Passionate about implementing and designing websites💻 |&|Graphics design🎨 </h2>
 <br />
 <img align="right"  alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
