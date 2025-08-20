@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biruk-Worku-Molla.Biruk-Worku-Molla" />
 <h1 align="center"></h1>
 <h1 align="center">
-     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=200&duration=6000&lines=Hi+There!+👋+I'm+Biruk+Worku!;+Full+Stack+Developer+Website;+And;+React+native+Mobil+App+Developer" />
+     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=200&duration=8000&lines=Hi+There!+👋+I'm+Biruk+Worku!;+Full+Stack+Website+Developer;+And;+React native+Mobil+App+Developer" />
 <!-- biruk worku bio -->
 
 <h2 align="center" > Software Engineer | Passionate about implementing Full-Stack websites💻 |React native Developer 🎨 </h2>
