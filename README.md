@@ -8,15 +8,21 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
-<h3 align="left">🔭 I’m currently working on:</h3> 
--  Full-Stack Web using MERN stack  
--  Mobile apps using React Native   
+<h3 align="left">🔭 I’m currently working on:</h3>
+<ul>
+    <li>🚀 <strong>Full-Stack Web Applications</strong> using the MERN stack</li>
+    <li>📱 <strong>Mobile Applications</strong> using React Native</li>
+    <li>💡 <strong>Personal Projects</strong> to enhance practical skills</li>
+</ul>
 
 <h3 align="left">🌱 I am also working on:</h3>
-- Node.js & Express.js  
-- MongoDB, Supabase, SQL, NoSQL, MySQL  
-- React, Next.js, JavaScript, Python 
--React Native
+<ul>
+    <li>🖥️ <strong>Frontend:</strong> React, Next.js, JavaScript</li>
+    <li>🗄️ <strong>Backend:</strong> Node.js, Express.js</li>
+    <li>📱 <strong>Mobile Development:</strong> React Native, Flutter</li>
+    <li>💾 <strong>Databases:</strong> MongoDB, Supabase, SQL, NoSQL, MySQL</li>
+    <li>🐍 <strong>Programming & Scripting:</strong> Python</li>
+</ul>
 
 <br/>
 
@@ -35,7 +41,7 @@
 <h3 align="left">💻 Technical Skills</h3>
 <p align="left">
 <!-- Web Development -->
-<strong>Web Development:</strong>
+<strong>Web Development:</strong><br/>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -47,14 +53,14 @@
 <br/><br/>
 
 <!-- Mobile Development -->
-<strong>Mobile Development:</strong>
+<strong>Mobile Development:</strong><br/>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 
 <br/><br/>
 
 <!-- Databases -->
-<strong>Databases:</strong>
+<strong>Databases:</strong><br/>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://supabase.com/" target="_blank"><img src="https://seeklogo.com/images/S/supabase-logo-3B5C0A1C8B-seeklogo.com.png" alt="supabase" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
