@@ -4,7 +4,7 @@
      <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=200&duration=6000&lines=Hi+There!+👋+I'm+Biruk+Worku!;+Full+Stack+Developer;+And;+UI+UX+Designer" />
 <!-- biruk worku bio -->
 
-<h2 align="center" > Software Engineering | Passionate about implementing and designing websites💻 |&|Graphics design🎨 </h2>
+<h2 align="center" > Software Engineer | Passionate about implementing Full-Stack websites💻 |React native Developer 🎨 </h2>
 <br />
 <img align="right"  alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
@@ -12,7 +12,6 @@
 <h3 align="left">🔭 I’m currently working on:</h3>
 
 - Personal Projects
-- School Projects
 
 <h3 align="left">🌱  I’m currently learning: </h3>
 
