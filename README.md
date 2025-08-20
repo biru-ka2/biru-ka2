@@ -12,7 +12,7 @@
 <ul>
     <li>🚀 <strong>Full-Stack Web Applications</strong> using the MERN stack</li>
     <li>📱 <strong>Mobile Applications</strong> using React Native</li>
-    <li>💡 <strong>Personal Projects</strong> to enhance practical skills</li>
+    
 </ul>
 
 <h3 align="left">🌱 I am also working on:</h3>
