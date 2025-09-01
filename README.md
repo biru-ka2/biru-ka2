@@ -78,11 +78,3 @@ I focus on **scalable, user-friendly, impactful apps**, continuously learning an
 <p align="center">
   <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=12&cache_seconds=30" alt="Top Languages" />
 </p>
-
----
-
-## 🔄 Auto Git Status Update
-If you want your local repo to **auto-check for remote updates every 1 minute**, add this alias in your terminal config (`~/.bashrc` or `~/.zshrc`):
-
-```bash
-alias gitwatch='while true; do git fetch origin && git status; sleep 60; done'
