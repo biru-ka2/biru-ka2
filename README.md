@@ -1,27 +1,43 @@
-<h1 align="center">👋 Hi, I'm Biruk Worku</h1>
-<h3 align="center">Full-Stack Web Developer | React Native App Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=200&duration=5000&lines=Hi+There!+👋;I'm+Biruk+Worku;Full-Stack+Web+Developer;React+Native+App+Developer;Always+Learning+🚀" />
+</h1>
+
+<h3 align="center">Software Engineer | Web & Mobile Applications</h3>
 
 ---
 
 ### 🚀 About Me
-- 💻 Building **MERN Stack Web Apps**
-- 📱 Developing **Cross-Platform Mobile Apps**
-- 🌱 Always learning & improving  
+- 💻 Building **Full-Stack Web Applications** (MERN)  
+- 📱 Creating **Mobile Apps with React Native**  
+- 🌱 Exploring new technologies & improving skills  
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <!-- Frontend -->
+
+**Frontend**  
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-  <!-- Backend -->
+</p>
+
+**Backend**  
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <!-- Mobile -->
+</p>
+
+**Mobile Development**  
+<p>
   <img src="https://skillicons.dev/icons?i=react,flutter" />
-  <!-- Databases -->
+</p>
+
+**Databases**  
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-  <!-- Other -->
-  <img src="https://skillicons.dev/icons?i=git,github,python" />
+</p>
+
+**Programming Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
 ---
