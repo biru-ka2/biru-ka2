@@ -70,11 +70,11 @@ I focus on **scalable, user-friendly, impactful apps**, continuously learning an
 
 <!-- First row: two stats side-by-side -->
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=12" alt="GitHub Stats" />
-  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=biru-ka2&theme=react&border_radius=12" alt="GitHub Streak" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=12&cache_seconds=60" alt="GitHub Stats" />
+  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=biru-ka2&theme=react&border_radius=12&cache_seconds=60" alt="GitHub Streak" />
 </p>
 
 <!-- Second row: top languages centered -->
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=12" alt="Top Languages" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=12&cache_seconds=60" alt="Top Languages" />
 </p>
