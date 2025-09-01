@@ -69,7 +69,7 @@ I focus on **scalable, user-friendly, impactful apps**, continuously learning an
 
 ## 📊 GitHub Stats
 
-<!-- First row: two stats side-by-side -->
+<!-- First row: two stats side-by-side both are equal -->
 <p align="center">
   <img width="320" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=12&cache_seconds=30" alt="GitHub Stats" />
   <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=biru-ka2&theme=react&border_radius=12&cache_seconds=30" alt="GitHub Streak" />
