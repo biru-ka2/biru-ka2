@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi there, I'm Biruk Worku</h1>
 
 <h3 align="center">
@@ -68,14 +67,14 @@ I focus on **scalable, user-friendly, impactful apps**, continuously learning an
 ---
 
 ## 📊 GitHub Stats
-
-<!-- First row: two stats side-by-side both are equal -->
+<!-- First row: two stats side-by-side -->
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=10&cache_seconds=60" alt="GitHub Stats" />
-  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=biru-ka2&theme=react&border_radius=10&cache_seconds=60" alt="GitHub Streak" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img width="350" src="https://github-readme-streak-stats-eight.vercel.app?user=biru-ka2&theme=react&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<!-- Second row: top languages centered -->
+<!-- Second row: top languages -->
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=10&cache_seconds=60" alt="Top Languages" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </p>
+
