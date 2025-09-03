@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Biruk Worku</h1>
+<h1 align="center">👨‍💻 Biruk Worku — Small Commits, Huge Impact 💻</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=60&duration=4000&lines=Software+Engineer;Full-Stack+Web+Developer;React+Native+App+Developer;Always+Learning+%26+Building+🚀" />
@@ -7,15 +7,14 @@
 ---
 
 ## 💼 About Me
-I am a **Software Engineer** building **modern web & mobile applications**.  
-
-I leverage **AI-assisted tools** like **Cursor** for speed and efficiency, but I also write **clean, scalable, high-quality code manually**.  
-
-I focus on **scalable, user-friendly, impactful apps**, continuously learning and collaborating on projects.
+I am a **Software Engineer** passionate about building **modern web & mobile applications**.  
+I **write clean, scalable, high-quality code**, turn **ideas into impactful products**, and excel at **solving complex problems** through code.  
+I leverage **AI-assisted tools** like **Cursor** for speed and efficiency while ensuring my solutions are **efficient, user-friendly, and maintainable**.  
 
 ---
 
 ## 🛠️ Skills & Tech Stack
+
 **Frontend:**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -67,14 +66,15 @@ I focus on **scalable, user-friendly, impactful apps**, continuously learning an
 ---
 
 ## 📊 GitHub Stats
-<!-- First row: two stats side-by-side -->
 <p align="center">
   <img width="350" src="https://github-readme-stats.vercel.app/api?username=biru-ka2&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
   <img width="350" src="https://github-readme-streak-stats-eight.vercel.app?user=biru-ka2&theme=react&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<!-- Second row: top languages -->
 <p align="center">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=biru-ka2&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
+---
+
+<p align="left">☕ Fueled by coffee, 💻 solving problems, 🚀 turning ideas into products</p>
