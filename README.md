@@ -62,7 +62,7 @@ I leverage **AI-assisted tools** like **Cursor** for speed and efficiency while 
 ## 📬 Contact
 <a href="mailto:bworku1221@gmil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/biru-ka2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.leetcode.com/Biru"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.leetcode.com/Bir12323u"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 ---
 
